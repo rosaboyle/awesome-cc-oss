@@ -38,8 +38,9 @@ On **March 31, 2026**, security researcher **Chaofan Shou** ([@Fried_rice](https
 
 ## Source Code Archives
 
-- [**Kuberwastaken/claude-code**](https://github.com/Kuberwastaken/claude-code) — The most popular archive with a full technical breakdown README (now converted to a clean-room Rust reimplementation)
-- [**instructkr/claw-code**](https://github.com/instructkr/claw-code) — "The fastest repo in history to surpass..." — Clean-room Python rewrite capturing architectural patterns
+- [**gitlawb/claude-code**](https://gitlawb.com/node/repos/z6MkgKkbqz2sLMtUWW7LwVqiBePw1pCEmvbHdVnpc2dam4XS/chatgptprojects-claude-code) — Decentralized mirror of the leaked Claude Code source on GitLawb
+- [**chatgptprojects/claude-code**](https://github.com/chatgptprojects/claude-code) — Original leaked source code archive — the primary repository preserving the full extracted TypeScript source from the npm sourcemap
+
 
 ---
 
