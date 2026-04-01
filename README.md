@@ -39,12 +39,14 @@ On **March 31, 2026**, security researcher **Chaofan Shou** ([@Fried_rice](https
 ## Source Code Archives
 
 - [**gitlawb/claude-code**](https://gitlawb.com/node/repos/z6MkgKkbqz2sLMtUWW7LwVqiBePw1pCEmvbHdVnpc2dam4XS/chatgptprojects-claude-code) — Decentralized mirror of the leaked Claude Code source on GitLawb
-- [**chatgptprojects/claude-code**](https://github.com/chatgptprojects/claude-code) — Original leaked source code archive — the primary repository preserving the full extracted TypeScript source from the npm sourcemap
 
 
 ---
 
 ## Clean-Room Reimplementations
+
+
+- [**chatgptprojects/claude-code**](https://github.com/chatgptprojects/claude-code) — Original leaked source code archive — the primary repository preserving the full extracted TypeScript source from the npm sourcemap
 
 - [**Kuberwastaken/claude-code (Rust)**](https://github.com/Kuberwastaken/claude-code) — Rust port of Claude Code's behavior, clean-room reimplementation
 - [**instructkr/claw-code (Python)**](https://github.com/instructkr/claw-code) — Python rewrite by Sigrid Jin (top Claude API consumer, featured in WSJ), capturing the agent harness architecture
