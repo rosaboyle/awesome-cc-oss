@@ -2,6 +2,7 @@
 
 > A curated list of resources related to the Claude Code source code leak (March 31, 2026) — the incident where Anthropic accidentally shipped a 59.8 MB source map file (`cli.js.map`) in version 2.1.88 of the `@anthropic-ai/claude-code` npm package, exposing ~1,900 files and 512,000+ lines of proprietary TypeScript source code.
 
+
 ---
 
 ## Contents
